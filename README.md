@@ -26,7 +26,7 @@
  ##  📚Currently Learning
  + Data science
  + Java
- + 
+  
 
    [Linkedin](https://www.linkedin.com/in/vijayalakshmi-p-g-447aa82ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
    
